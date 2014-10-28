@@ -1,1 +1,3 @@
 django
+coverage
+-e git+git://github.com/danirus/django-sample-app.git#egg=django-sample-app
